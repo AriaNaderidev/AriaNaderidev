@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Aria</h2>
 
 # 💫 About Me:
-I am a front-end developer specializing in React.js and TypeScript, <br>with a strong focus on building scalable, maintainable user interfaces. <br>I am highly motivated to continuously learn new technologies and apply them to create meaningful progress in my work.😁<br> I have a strong interest in artificial intelligence <br>and enjoy exploring how modern AI tools and concepts can enhance software development.🤯
+I am a Front-End developer specializing in React.js and TypeScript, <br>with a strong focus on building scalable, maintainable user interfaces. <br>I am highly motivated to continuously learn new technologies and apply them to create meaningful progress in my work.😁<br> I have a strong interest in Artificial Intelligence <br>and enjoy exploring how modern AI tools and concepts can enhance software development.🤯
 
 # 💻 Tech Stack:
 ###
