@@ -33,7 +33,7 @@ I am a front-end developer specializing in React.js and TypeScript, <br>with a s
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" height="190" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+<img align="center" height="190" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 
 ###
 
